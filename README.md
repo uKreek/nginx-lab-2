@@ -1,4 +1,4 @@
-# Laboratory work №1: HTML + JS + PHP
+# Laboratory work №2: HTML + JS + PHP
 # option 10
 Create a gym registration form using JS, CSS, and HTML.
 
